@@ -2,7 +2,7 @@
   "name": "ci-cd-practice",
   "version": "1.0.0",
   "description": "Projeto de exemplo para CI/CD",
-  "main": "app.js"
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
